@@ -1,2 +1,2 @@
 # Bioinformatics
-Bioinformatics tools for sequence manipulation
+Bioinformatics tools for sequence manipulation using Python
